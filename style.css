@@ -19,7 +19,7 @@ body{
     width: 100px;
 }
 .logo{
-    background-image: url(./Amazon-Logo2.png);
+    background-image: url(./images/Amazon-Logo2.png);
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
@@ -146,7 +146,7 @@ span{
   height: 600px;
   background: 
     linear-gradient(to bottom, rgba(255, 255, 255, 0) 70%, #f3f3f3 100%),
-    url('./Box1.jpg') no-repeat center/cover;
+    url('./images/Box1.jpg') no-repeat center/cover;
 }
 
 /** SHOP**/
@@ -289,7 +289,7 @@ ul a{
     align-items: center;
 }
 .logo{  
-    background-image: url(./Amazon-Logo2.png);
+    background-image: url(./images/Amazon-Logo2.png);
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
